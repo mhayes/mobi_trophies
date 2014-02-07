@@ -121,7 +121,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
   compass-rails
-  foundation-rails
+  foundation-rails (~> 5.1.0)
   jbuilder (~> 1.2)
   jquery-rails
   rails (= 4.0.2)
